@@ -1,0 +1,59 @@
+HAND MOUSE - END USER LICENSE AGREEMENT
+Version 5.2.0
+
+Copyright (c) 2026 Gandi Napoleon Putra. All rights reserved.
+Contact: gandinputra@gmail.com
+
+By installing or using Hand Mouse ("the Software") you agree to this agreement. If you do not agree, do not use it.
+
+1. OWNERSHIP
+   The Software, including its source code, design and documentation, is owned by Gandi Napoleon Putra ("the Author"). It is
+   licensed to you, not sold. All rights not expressly granted here are reserved by the Author.
+
+2. WHAT YOU MAY DO
+   You may install the Software and run it on computers that you own or control, and use its functions. This permission
+   is personal, non-exclusive and non-transferable.
+
+3. WHAT YOU MAY NOT DO
+   You may not, and may not allow anyone else to:
+   a) copy the Software, except the copy you install and one backup copy for your own use;
+   b) share, distribute, publish, upload, sell, rent, lend, sublicense or host the Software or any part of it, in any form;
+   c) modify the Software or create anything derived from it;
+   d) reverse engineer, decompile, disassemble or otherwise try to extract or reconstruct the source code of the Software,
+      except where the law of your country gives you that right and does not allow it to be limited by agreement;
+   e) remove or change any copyright or license notice.
+   The source code is not provided to you and you have no right to receive it.
+
+4. THIRD-PARTY COMPONENTS
+   The Software includes components made by others (for example MediaPipe, OpenCV, NumPy, pynput and the Python runtime).
+   They are licensed under their own terms, listed in THIRD_PARTY_NOTICES.txt and the "licenses" folder. Nothing in this
+   agreement limits the rights those licenses give you for those components.
+
+5. PRIVACY
+   The Software processes camera images on your computer only and does not send them anywhere. The Software itself uses the
+   internet only to download the hand-tracking model file if that file is missing. Some actions you choose (for example
+   opening YouTube or a web address) open web pages in your browser. Your settings are stored on your computer in
+   %APPDATA%\HandMouse.
+
+6. USE AT YOUR OWN RISK
+   Hand Mouse controls your mouse and can trigger clicks, key presses and actions from camera images. It can misread a hand
+   shape. Do not rely on it where an unintended action could cause injury, damage or loss.
+
+7. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR
+   A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+8. LIMITATION OF LIABILITY
+   TO THE FULLEST EXTENT PERMITTED BY LAW, THE AUTHOR IS NOT LIABLE FOR ANY INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES, OR
+   FOR LOSS OF DATA OR PROFITS, ARISING FROM THE USE OF OR INABILITY TO USE THE SOFTWARE. Nothing in this agreement excludes
+   liability that cannot be excluded by law.
+
+9. TERMINATION
+   This agreement ends automatically if you break it. You must then stop using the Software and delete all copies.
+
+10. UPDATES
+   Updates and new versions that the Author provides are covered by this agreement unless they come with their own terms.
+
+11. GENERAL
+   This agreement is governed by the laws of Indonesia. If part of it is found unenforceable, the rest stays in
+   force. This is the whole agreement between you and the Author about the Software.
